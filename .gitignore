@@ -1,6 +1,7 @@
 #Comments
 
 tempfile.txt
+tempfile2.txt
 .DS_Store
 *.zip
 *.gz
@@ -11,3 +12,4 @@ assets/videos/
 !assets/videos/tour_*.mp4
 
 # Question: would log/archive/access.log be ignored? No.
+
